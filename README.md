@@ -11,8 +11,13 @@ This Python script generates secure random passwords.
 
 ## Usage 
 
-1. Save the script as `password_generator.py`.
-2. Run the script from your terminal: `python password_generator.py`
-3. Follow the prompts to specify password length and character set options.
-4. The script will generate a secure random password and display it on the screen.
-5. Copy the desired password and use it anywhere.
+1. In your local environment, open the terminal and run the command `git clone https://github.com/pufferfish3e/password-generator.git`.
+2. Navigate to the `password-generator` file by running the command `cd password-generator`
+3. Run the installer to install the necessary libaries: `python installer.py`
+4. After the installer is done, run the main script `python main.py`.
+
+#### Alternatively, you can copy these lines of commands: 
+`git clone https://github.com/pufferfish3e/password-generator.git
+cd password-generator
+python installer.py
+python main.py`
