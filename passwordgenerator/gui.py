@@ -1,6 +1,6 @@
-import PySimpleGUI as sg
 from passwordgenerator import password_generator
 import pyperclip
+import PySimpleGUI as sg
 
 sg.theme("DarkBrown4")
 layout = [
