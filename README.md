@@ -17,6 +17,9 @@ This Python script generates secure random passwords.
 
 #### Alternatively, you can copy these lines of commands: 
 `git clone https://github.com/pufferfish3e/password-generator.git`
+
 `cd password-generator`
+
 `python installer.py`
+
 `python main.py`
