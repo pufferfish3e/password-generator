@@ -15,7 +15,7 @@ This Python script generates secure random passwords.
 3. Run the installer to install the necessary libaries: `python installer.py`
 4. After the installer is done, run the main script `python main.py`.
 
-#### Alternatively, you can copy these lines of commands: 
+#### Alternatively, you can copy these and paste this into your terminal: 
 ```
 git clone https://github.com/pufferfish3e/password-generator.git
 cd password-generator
